@@ -4,33 +4,40 @@ You can use the [editor on GitHub](https://github.com/captClampitt/cs250-hellowo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Simple Hello World
 
-I used Markdown to link to this website from the repo in the readme.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Simple Hello World
-
-## Purpose
+### Purpose
 
 To understand branching and merging within github.
 
-## Technologies Used
+### Technologies Used
 - HTML
 - Markdown
 - Github
 
-### Themes
+#### HTML
+
+```markdown
+Syntax highlighted code block
+<html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
+</html>
+```
+#### Markdown
+
+I used Markdown to link to this website from the repo in the readme.
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
+
+#### Themes
 The following is information provided by the theme.
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
