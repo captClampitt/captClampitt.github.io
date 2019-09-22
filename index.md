@@ -6,20 +6,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+I used Markdown to link to this website from the repo in the readme.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Simple Hello World
 
-- Bulleted
-- List
+## Purpose
 
-1. Numbered
-2. List
+To understand branching and merging within github.
+
+## Technologies Used
+- HTML
+- Markdown
+- Github
+
+### Themes
+The following is information provided by the theme.
 
 **Bold** and _Italic_ and `Code` text
 
